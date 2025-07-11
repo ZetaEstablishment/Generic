@@ -47,5 +47,5 @@ And also the discord, linked below.
 ## Contact
 
 Join the conversation or apply to help:
-**Discord:** [https://discord.gg/urPAAWEV](https://discord.gg/urPAAWEV)
+(PENDING TO ADD A LINK)
 
