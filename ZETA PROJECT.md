@@ -29,6 +29,13 @@ The project did not reach completion as intended.
 The team was handled by a lead of 2.  
 Open roles (Builders, UI Designers, Animators) were not filled. Most responsibilities fell on one person.
 
+A special thank you to;
+
+OrchidHeights
+Alina_807
+Rip_Burned (amigodotomas1)
+Trendinon_1
+
 ---
 
 ## Closing Statement
