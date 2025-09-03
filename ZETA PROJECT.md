@@ -26,8 +26,8 @@ The project did not reach completion as intended.
 
 ## Contributors
 
-The team was handled by a single lead.  
-Open roles (Builders, UI Designers, Animators, Scripters) were not filled. Most responsibilities fell on one person.
+The team was handled by a lead of 2.  
+Open roles (Builders, UI Designers, Animators) were not filled. Most responsibilities fell on one person.
 
 ---
 
