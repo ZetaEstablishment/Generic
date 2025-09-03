@@ -31,10 +31,10 @@ Open roles (Builders, UI Designers, Animators) were not filled. Most responsibil
 
 A special thank you to;
 
-OrchidHeights
-Alina_807
-Rip_Burned (amigodotomas1)
-Trendinon_1
+- OrchidHeights
+- Alina_807
+- Rip_Burned (amigodotomas1)
+- Trendinon_1
 
 ---
 
