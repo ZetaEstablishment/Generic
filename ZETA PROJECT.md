@@ -1,51 +1,41 @@
-# What is Zeta Project
+# Zeta Project – Archived
 
-Zeta Project is a Roblox based development squad. It is completely independent and operated solely by fellow users who are passionate about building immersive and creative experiences.
+## What Was Zeta Project?
 
-> We are currently in active development. Not everything is final and feedback, ideas, and collaboration are welcome.
+Zeta Project was a Roblox-based development squad.  
+
+As of now, Zeta Project is no longer in active development and is officially archived.
 
 ---
 
-##  Our Current Project Status
+## Final Project Status
 
-** Current Project:** *Garden of Echoes*  
-> Details may not be fully revealed at this time.
+**Project:** Garden of Echoes  
 
-- **Gameplay**: ~50% complete  
-- **Bugfixing & Polish**: Updated daily  
-- **Mobile Support**: In progress
+Garden of Echoes was intended to be a semi-exploration hangout game with interactive lore. It combined hangout, mystery, and replayability elements. Mini-games, tools, and visual elements were partially developed.  
+
+| Aspect                  | Status                        |
+|-------------------------|-------------------------------|
+| Gameplay Completion     | ~50%                          |
+| Bugfixing & Polish      | Not finalized                 |
+| Mobile Support          | Unfinished                    |
+
+The project did not reach completion as intended.
 
 ---
 
 ## Contributors
 
-We are a small, growing team.  
-**Currently looking for:**
-- Builders  
-- UI Designers  
-- Animators  
-- Scripters
-
-Want to contribute? Join us and shape the project.
+The team was handled by a single lead.  
+Open roles (Builders, UI Designers, Animators, Scripters) were not filled. Most responsibilities fell on one person.
 
 ---
 
-## Where can I see the group?
+## Closing Statement
 
-You can follow our development and updates via the [Zeta Project Roblox Group](https://www.roblox.com/groups/Zeta-Project)
-And also the discord, linked below.
----
+Zeta Project is officially discontinued. This archive reflects the work completed and the vision that was attempted.  
+Thank you to everyone who followed the project and contributed ideas. While the project did not achieve its intended scope, it stands as a record of the development journey.
 
-## 📝 Notes
-
-- We aim to create a semi exploration game with engaging lore and interactive features.
-- Garden of Echoes blends hangout, mystery, and replayability.
-- We offer unique tools, mini games, and visual storytelling elements.
-
----
-
-## Contact
-
-Join the conversation or apply to help:
-(PENDING TO ADD A LINK)
+<sub>Note: Development was also impacted by ongoing legal challenges and organizational changes within Roblox, which contributed to the decision to discontinue the project.</sub>
+> *Note: Zeta Project is currently archived, but may return on another platform should the opportunity and team arise. Until next time.
 
