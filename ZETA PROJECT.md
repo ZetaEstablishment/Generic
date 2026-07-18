@@ -35,5 +35,5 @@ A special thank you to testers;
 ## Closing Statement
 
 
-> *Note: Zeta Project is currently archived, but may return on another platform should the opportunity and team arise. Until next time.
+> *Note: The project is paused althought it may return should the opportunity and team arise. Until next time.
 
