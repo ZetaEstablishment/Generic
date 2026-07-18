@@ -1,6 +1,6 @@
 # Zeta Project – Archive
 
-## What Was Zeta Project?
+## What Is Zeta Project?
 
 Zeta Project is a Lua-based development squad.  
 
